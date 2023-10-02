@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net" modified="2023-10-02T11:18:55.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xFW1Gy69qYxCM3Z0XgVT" version="22.0.0" type="github">
+  <diagram name="Page-1" id="6Iv9qYYwXVPN">
+    <mxGraphModel dx="1363" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="amGTnDmyzd0JPFkZiGi--1" value="CUBE&lt;br style=&quot;font-size: 16px;&quot;&gt;Token" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--2" value="COC" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="528.75" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="amGTnDmyzd0JPFkZiGi--49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438.75" y="730" as="sourcePoint" />
+            <mxPoint x="438.75" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--4" value="Platform Token" style="text;html=1;strokeColor=#d79b00;fillColor=#007FFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--5" value="Game Coin" style="text;html=1;strokeColor=#d79b00;fillColor=#007FFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="528.75" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--6" value="交易市集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226.25" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--7" value="投資標的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221.25" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--8" value="獎勵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223.75" y="650" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--9" value="購買玩家身分 Pass NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208.75" y="330" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--10" value="購買工作證 Worker NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208.75" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--11" value="購買經營權 Store NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208.75" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--12" value="購買道具 NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206.25" y="450" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--13" value="購買寵物 NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206.25" y="480" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--14" value="競標購買 CUBE NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211.25" y="420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--15" value="購買 COC 充值套組" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206.25" y="510" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--17" value="投資餐飲 / HOTEL / 充電站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="590" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--18" value="質押 / 流動性挖礦" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="610" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--19" value="任務空投獎勵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="690" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--20" value="營銷推廣獎勵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="720" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--21" value="社區治理獎勵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--22" value="權益 &amp;amp; 提升 &amp;amp; 投資" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF6666;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--23" value="生存 &amp;amp; 經營 &amp;amp; 產出" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF6666;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="110" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--24" value="生存消耗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--25" value="經營消耗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--26" value="利益產出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="amGTnDmyzd0JPFkZiGi--26" target="amGTnDmyzd0JPFkZiGi--30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="548.75" y="660" as="sourcePoint" />
+            <mxPoint x="588.75" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="amGTnDmyzd0JPFkZiGi--26" target="amGTnDmyzd0JPFkZiGi--34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="598.75" y="550" as="sourcePoint" />
+            <mxPoint x="638.75" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="amGTnDmyzd0JPFkZiGi--26" target="amGTnDmyzd0JPFkZiGi--37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="598.75" y="550" as="sourcePoint" />
+            <mxPoint x="538.75" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--30" value="CUBE&lt;br&gt;代幣" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="553.75" y="660" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="amGTnDmyzd0JPFkZiGi--30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588.75" y="780" as="sourcePoint" />
+            <mxPoint x="638.75" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--32" value="按經營&lt;br&gt;績效保底分潤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="528.75" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--33" value="寶箱&lt;br&gt;盲盒&lt;br&gt;獲取獎品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="588.75" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--34" value="COC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="623.75" y="600" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="amGTnDmyzd0JPFkZiGi--34" target="amGTnDmyzd0JPFkZiGi--33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358.75" y="610" as="sourcePoint" />
+            <mxPoint x="408.75" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--36" value="消耗COC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="658.75" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--37" value="NFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498.75" y="600" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--38" value="工作 / 經商&lt;br&gt;經營 CUBE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="538.75" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--39" value="能量/個人數值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="538.75" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--40" value="寵物消耗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="470" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="amGTnDmyzd0JPFkZiGi--43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438.75" y="730" as="sourcePoint" />
+            <mxPoint x="438.75" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--43" value="技能" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--45" value="勳章" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--46" value="排行榜" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--47" value="裝備" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--48" value="團隊" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="amGTnDmyzd0JPFkZiGi--43" target="amGTnDmyzd0JPFkZiGi--49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438.75" y="310" as="sourcePoint" />
+            <mxPoint x="438.75" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--49" value="資產" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--42" value="等級" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--51" value="任務" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amGTnDmyzd0JPFkZiGi--52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;CubeOasis&lt;/b&gt;&lt;/font&gt;&lt;br&gt;全球用戶最多的 Web3 模擬經營遊戲" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315.75" y="50" width="246" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
